@@ -6,11 +6,11 @@ A big data search engine designed to rank academic articles based on query-title
 - Importance ranking using PageRank (implemented from scratch)
 - Weighted aggreagtion for scoring the results based no the text similarity and importance score
 - Graph-based modeling using citations as directed edges
-- Big Data of (Citation dataset)[https://www.kaggle.com/datasets/mathurinache/citation-network-dataset]- 12GB 
+- Big Data of [Citation dataset](https://www.kaggle.com/datasets/mathurinache/citation-network-dataset)- 12GB 
 - Implemented based on Map-Reduce paradigm on PySpark
 
 ## Results 
-Refer to the (presentation file)[https://github.com/mehrdadhz-77/article_search_engine/blob/main/presentation_files.pdf] for more details and results achieved in the project. 
+Refer to the [presentation file](https://github.com/mehrdadhz-77/article_search_engine/blob/main/presentation_files.pdf) for more details and results achieved in the project. 
 
 
 
