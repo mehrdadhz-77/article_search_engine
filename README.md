@@ -1,5 +1,5 @@
 ## Project Description 
-A big data search engine designed to rank academic articles based on query-title similarity and citation-based importance. The engine mimics Google Scholar's ranking mechanism by combining string similarity with PageRank computed from citation graphs using a custom MapReduce implementation in PySpark.
+A Big Data search engine designed to rank academic articles based on query-title similarity and citation-based importance. The engine mimics Google Scholar's ranking mechanism by combining string similarity with PageRank computed from citation graphs using a custom MapReduce implementation in PySpark.
 
 ## Key Features
 - Query-based search using keyword similarity in article titles
